@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646326837226",
+    "project_id": "suleiman-smarthomeenergy-69190",
+    "storage_bucket": "suleiman-smarthomeenergy-69190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646326837226:android:a906b6d7aad7585c009c93",
+        "android_client_info": {
+          "package_name": "com.example.suleiman_smarthomeenergymanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA157StnBjpCqrdzUsCbyaqv6Rgk4wXYRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
